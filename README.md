@@ -9,10 +9,11 @@
 I write shell scripts and setup guides for **lightweight, good-looking desktops** on Debian & Devuan.
 From reviving old ThinkCentres to tuning Sway and dwm, I like software that stays fast and does one thing well.
 
-[![Followers](https://img.shields.io/github/followers/SOSMLG?style=for-the-badge&logo=github&label=Followers&color=2f81f7)](https://github.com/SOSMLG)
-[![Stars](https://img.shields.io/github/stars/SOSMLG?style=for-the-badge&logo=github&label=Stars%20earned&color=d2992f)](https://github.com/SOSMLG?tab=stars)
-[![Shell](https://img.shields.io/badge/Built%20with-Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/SOSMLG?tab=repositories)
-[![Linux](https://img.shields.io/badge/Powered%20by-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Followers](https://img.shields.io/github/followers/SOSMLG?style=for-the-badge&logo=github&label=Followers&color=E8A33D)](https://github.com/SOSMLG)
+[![Stars](https://img.shields.io/github/stars/SOSMLG?style=for-the-badge&logo=github&label=Stars%20earned&color=D2992F)](https://github.com/SOSMLG?tab=stars)
+[![Shell](https://img.shields.io/badge/Built%20with-Shell-30343B?style=for-the-badge&logo=gnu-bash&logoColor=E8A33D)](https://github.com/SOSMLG?tab=repositories)
+[![Linux](https://img.shields.io/badge/Powered%20by-Linux-202329?style=for-the-badge&logo=linux&logoColor=E8A33D)](https://www.kernel.org/)
+![theme](https://img.shields.io/badge/theme-graphite%20%2B%20amber-E8A33D?style=for-the-badge&logoColor=16181D)
 
 </div>
 
@@ -21,11 +22,11 @@ From reviving old ThinkCentres to tuning Sway and dwm, I like software that stay
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SOSMLG&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79c0ff&amp;icon_color=a371f7&amp;text_color=c9d1d9" alt="GitHub stats for SOSMLG" /></td>
-    <td><img src="https://streak-stats.demolab.com/?user=SOSMLG&amp;theme=github_dark&amp;hide_border=true" alt="Contribution streak for SOSMLG" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SOSMLG&amp;show_icons=true&amp;hide_border=true&amp;bg_color=16181d&amp;title_color=e8a33d&amp;icon_color=d2992f&amp;text_color=d8d3c8&amp;border_color=30343b" alt="GitHub stats for SOSMLG" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=SOSMLG&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=16181d&amp;title_color=e8a33d&amp;text_color=d8d3c8&amp;icon_color=d2992f" alt="Contribution streak for SOSMLG" /></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOSMLG&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79c0ff&amp;text_color=c9d1d9" alt="Most used languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOSMLG&amp;layout=compact&amp;hide_border=true&amp;bg_color=16181d&amp;title_color=e8a33d&amp;icon_color=d2992f&amp;text_color=d8d3c8&amp;border_color=30343b" alt="Most used languages" /></td>
     <td align="left" valign="middle">
 <b>🎯 Right now</b><br/>
 • Refining Sway &amp; dwm setups<br/>
@@ -41,18 +42,18 @@ From reviving old ThinkCentres to tuning Sway and dwm, I like software that stay
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
-![Devuan](https://img.shields.io/badge/Devuan-9B2C2C?style=for-the-badge&logoColor=white)
-![Sway](https://img.shields.io/badge/Sway-4A5B9A?style=for-the-badge&logo=sway&logoColor=white)
-![i3](https://img.shields.io/badge/i3-5A6FA5?style=for-the-badge&logo=i3&logoColor=white)
-![dwm](https://img.shields.io/badge/dwm-2F343F?style=for-the-badge&logoColor=white)
-![Xfce](https://img.shields.io/badge/Xfce-3B5998?style=for-the-badge&logo=xfce&logoColor=white)
-![GNOME](https://img.shields.io/badge/GNOME-2E3436?style=for-the-badge&logo=gnome&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A5E5?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-202329?style=for-the-badge&logo=linux&logoColor=E8A33D)
+![Bash](https://img.shields.io/badge/Bash-202329?style=for-the-badge&logo=gnu-bash&logoColor=E8A33D)
+![Debian](https://img.shields.io/badge/Debian-202329?style=for-the-badge&logo=debian&logoColor=E8A33D)
+![Devuan](https://img.shields.io/badge/Devuan-202329?style=for-the-badge&logoColor=E8A33D)
+![Sway](https://img.shields.io/badge/Sway-202329?style=for-the-badge&logo=sway&logoColor=E8A33D)
+![i3](https://img.shields.io/badge/i3-202329?style=for-the-badge&logo=i3&logoColor=E8A33D)
+![dwm](https://img.shields.io/badge/dwm-202329?style=for-the-badge&logoColor=E8A33D)
+![Xfce](https://img.shields.io/badge/Xfce-202329?style=for-the-badge&logo=xfce&logoColor=E8A33D)
+![GNOME](https://img.shields.io/badge/GNOME-202329?style=for-the-badge&logo=gnome&logoColor=E8A33D)
+![Neovim](https://img.shields.io/badge/Neovim-202329?style=for-the-badge&logo=neovim&logoColor=E8A33D)
+![Git](https://img.shields.io/badge/Git-202329?style=for-the-badge&logo=git&logoColor=E8A33D)
+![PowerShell](https://img.shields.io/badge/PowerShell-202329?style=for-the-badge&logoColor=E8A33D)
 
 </div>
 
@@ -61,22 +62,22 @@ From reviving old ThinkCentres to tuning Sway and dwm, I like software that stay
 <div align="center">
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/SOSMLG/DebianSway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SOSMLG&amp;repo=DebianSway&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79c0ff&amp;text_color=c9d1d9" alt="DebianSway" /></a></td>
-    <td align="center"><a href="https://github.com/SOSMLG/DevuanDwm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SOSMLG&amp;repo=DevuanDwm&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79c0ff&amp;text_color=c9d1d9" alt="DevuanDwm" /></a></td>
+    <td align="center"><a href="https://github.com/SOSMLG/DebianSway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SOSMLG&amp;repo=DebianSway&amp;hide_border=true&amp;bg_color=16181d&amp;title_color=e8a33d&amp;icon_color=d2992f&amp;text_color=d8d3c8&amp;border_color=30343b" alt="DebianSway" /></a></td>
+    <td align="center"><a href="https://github.com/SOSMLG/DevuanDwm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SOSMLG&amp;repo=DevuanDwm&amp;hide_border=true&amp;bg_color=16181d&amp;title_color=e8a33d&amp;icon_color=d2992f&amp;text_color=d8d3c8&amp;border_color=30343b" alt="DevuanDwm" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/SOSMLG/XfceMlg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SOSMLG&amp;repo=XfceMlg&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79c0ff&amp;text_color=c9d1d9" alt="XfceMlg" /></a></td>
-    <td align="center"><a href="https://github.com/SOSMLG/GnomeMLG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SOSMLG&amp;repo=GnomeMLG&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79c0ff&amp;text_color=c9d1d9" alt="GnomeMLG" /></a></td>
+    <td align="center"><a href="https://github.com/SOSMLG/XfceMlg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SOSMLG&amp;repo=XfceMlg&amp;hide_border=true&amp;bg_color=16181d&amp;title_color=e8a33d&amp;icon_color=d2992f&amp;text_color=d8d3c8&amp;border_color=30343b" alt="XfceMlg" /></a></td>
+    <td align="center"><a href="https://github.com/SOSMLG/GnomeMLG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SOSMLG&amp;repo=GnomeMLG&amp;hide_border=true&amp;bg_color=16181d&amp;title_color=e8a33d&amp;icon_color=d2992f&amp;text_color=d8d3c8&amp;border_color=30343b" alt="GnomeMLG" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/SOSMLG/ThisForOldPc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SOSMLG&amp;repo=ThisForOldPc&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79c0ff&amp;text_color=c9d1d9" alt="ThisForOldPc" /></a></td>
-    <td align="center"><a href="https://github.com/SOSMLG/devuan-cinnamon-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SOSMLG&amp;repo=devuan-cinnamon-setup&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79c0ff&amp;text_color=c9d1d9" alt="devuan-cinnamon-setup" /></a></td>
+    <td align="center"><a href="https://github.com/SOSMLG/ThisForOldPc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SOSMLG&amp;repo=ThisForOldPc&amp;hide_border=true&amp;bg_color=16181d&amp;title_color=e8a33d&amp;icon_color=d2992f&amp;text_color=d8d3c8&amp;border_color=30343b" alt="ThisForOldPc" /></a></td>
+    <td align="center"><a href="https://github.com/SOSMLG/devuan-cinnamon-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SOSMLG&amp;repo=devuan-cinnamon-setup&amp;hide_border=true&amp;bg_color=16181d&amp;title_color=e8a33d&amp;icon_color=d2992f&amp;text_color=d8d3c8&amp;border_color=30343b" alt="devuan-cinnamon-setup" /></a></td>
   </tr>
 </table>
 </div>
 
 <div align="center">
-  📦 <a href="https://github.com/SOSMLG?tab=repositories"><b>Browse all 10 repositories</b></a>
+  📦 <a href="https://github.com/SOSMLG?tab=repositories"><b>Browse all 11 repositories</b></a>
 </div>
 
 ### More from the workshop
@@ -97,4 +98,4 @@ From reviving old ThinkCentres to tuning Sway and dwm, I like software that stay
 
 ## Repository standard
 
-This repo follows the SOSMLG standard: [contributing](CONTRIBUTING.md), [security](SECURITY.md). Local workflow: [English guide](https://github.com/SOSMLG/.github/blob/main/docs/GIT_GUIDE.md) / [Arabic guide](https://github.com/SOSMLG/.github/blob/main/docs/GIT_GUIDE.ar.md).
+This repo follows the SOSMLG standard: [contributing](CONTRIBUTING.md), [security](SECURITY.md). Local workflow: [English guide](https://github.com/SOSMLG/.github/blob/main/docs/GIT_GUIDE.md) / [Arabic guide](https://github.com/SOSMLG/.github/blob/main/docs/GIT_GUIDE.ar.md). Visual standard: [theme](https://github.com/SOSMLG/.github/blob/main/docs/THEME.md) / [الطابع البصري](https://github.com/SOSMLG/.github/blob/main/docs/THEME.ar.md).
