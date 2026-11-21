@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="SOSMLG - Lightweight Linux Desktops">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1018"/>
+      <stop offset="55%" stop-color="#101827"/>
+      <stop offset="100%" stop-color="#161226"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#79c0ff"/>
+      <stop offset="55%" stop-color="#a5a6ff"/>
+      <stop offset="100%" stop-color="#d2a8ff"/>
+    </linearGradient>
+    <linearGradient id="term" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+
+  <g stroke="#1f2937" stroke-width="1" opacity="0.55">
+    <path d="M0 60 H1200 M0 120 H1200 M0 180 H1200 M0 240 H1200"/>
+    <path d="M60 0 V300 M120 0 V300 M180 0 V300 M240 0 V300 M300 0 V300 M360 0 V300 M420 0 V300 M480 0 V300 M540 0 V300 M600 0 V300 M660 0 V300 M720 0 V300 M780 0 V300 M840 0 V300 M900 0 V300 M960 0 V300 M1020 0 V300 M1080 0 V300 M1140 0 V300"/>
+  </g>
+
+  <rect x="48" y="70" width="6" height="152" rx="3" fill="#58a6ff"/>
+  <circle cx="51" cy="62" r="3" fill="#d2a8ff"/>
+
+  <text x="76" y="142" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="66" font-weight="700" letter-spacing="2" fill="url(#title)">SOSMLG</text>
+  <text x="78" y="188" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="23" font-weight="600" fill="#c9d1d9">Lightweight Linux desktops</text>
+  <text x="78" y="222" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#8b949e">Debian · Devuan · Sway · dwm · Xfce · GNOME</text>
+
+  <g transform="translate(716,48)">
+    <rect width="436" height="204" rx="12" fill="url(#term)" stroke="#30363d" stroke-width="2"/>
+    <path d="M0 12 A12 12 0 0 1 12 0 H424 A12 12 0 0 1 436 12 V38 H0 Z" fill="#1c2128"/>
+    <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+    <circle cx="46" cy="19" r="6" fill="#ffbd2e"/>
+    <circle cx="68" cy="19" r="6" fill="#27c93f"/>
+    <text x="218" y="24" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8b949e">~/dotfiles</text>
+
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">
+      <text x="22" y="70" fill="#7ee787">$</text><text x="40" y="70" fill="#c9d1d9">neofetch</text>
+      <text x="22" y="98" fill="#7ee787">OS</text><text x="52" y="98" fill="#8b949e">: Debian / Devuan</text>
+      <text x="22" y="126" fill="#7ee787">WM</text><text x="52" y="126" fill="#8b949e">: sway · dwm · xfce</text>
+      <text x="22" y="154" fill="#7ee787">CPU</text><text x="58" y="154" fill="#8b949e">: whatever still boots</text>
+      <text x="22" y="182" fill="#7ee787">$</text><rect x="40" y="170" width="9" height="16" fill="#79c0ff"/>
+    </g>
+  </g>
+</svg>
