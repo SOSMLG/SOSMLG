@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="SOSMLG — Lightweight Linux Desktops" width="100%" />
+  <img src="assets/banner.svg" alt="SOSMLG - Lightweight Linux Desktops" width="100%" />
 </div>
 
 <div align="center">
 
-### 👋 Hey, I'm SOSMLG — I make Linux desktops feel effortless.
+### 👋 Hey, I'm SOSMLG - I make Linux desktops feel effortless.
 
 I write shell scripts and setup guides for **lightweight, good-looking desktops** on Debian & Devuan.
 From reviving old ThinkCentres to tuning Sway and dwm, I like software that stays fast and does one thing well.
@@ -81,15 +81,15 @@ From reviving old ThinkCentres to tuning Sway and dwm, I like software that stay
 
 ### More from the workshop
 
-- **[DevuanSway](https://github.com/SOSMLG/DevuanSway)** — Sway setup for Devuan with OpenRC
-- **[Devuan-Kde](https://github.com/SOSMLG/Devuan-Kde)** — KDE desktop setup for Devuan
-- **[SetupForWinIotEnterprise](https://github.com/SOSMLG/SetupForWinIotEnterprise)** — Windows IoT Enterprise setup scripts
+- **[DevuanSway](https://github.com/SOSMLG/DevuanSway)** - Sway setup for Devuan with OpenRC
+- **[Devuan-Kde](https://github.com/SOSMLG/Devuan-Kde)** - KDE desktop setup for Devuan
+- **[win11-engineering-stack](https://github.com/SOSMLG/win11-engineering-stack)** - one Windows setup, daily and IoT LTSC profiles
 
 ## 💬 Let's connect
 
-- **GitHub:** [@SOSMLG](https://github.com/SOSMLG) — follow me or open an issue on any repo
+- **GitHub:** [@SOSMLG](https://github.com/SOSMLG) - follow me or open an issue on any repo
 - **Ideas & fixes:** pull requests are always welcome
-- ⭐ If a setup saved you an afternoon, star the repo — it keeps the motivation going
+- ⭐ If a setup saved you an afternoon, star the repo - it keeps the motivation going
 
 <div align="center">
   <sub>Built with shell scripts, a little caffeine, and a soft spot for fast desktops. ☕</sub>
