@@ -94,3 +94,7 @@ From reviving old ThinkCentres to tuning Sway and dwm, I like software that stay
 <div align="center">
   <sub>Built with shell scripts, a little caffeine, and a soft spot for fast desktops. ☕</sub>
 </div>
+
+## Repository standard
+
+This repo follows the SOSMLG standard: [contributing](CONTRIBUTING.md), [security](SECURITY.md). Local workflow: [English guide](https://github.com/SOSMLG/.github/blob/main/docs/GIT_GUIDE.md) / [Arabic guide](https://github.com/SOSMLG/.github/blob/main/docs/GIT_GUIDE.ar.md).
