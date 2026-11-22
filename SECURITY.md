@@ -10,7 +10,7 @@ Use the repository's Security tab and choose "Report a vulnerability". Do not op
 
 ## Scope
 
-These setup scripts install packages and write user configuration. Run the read-only verifier before trusting a change.
+The setup repositories install packages and write user configuration. Run the read-only verifier before trusting a change. This profile repository contains documentation and assets only.
 
 ## Secrets
 
